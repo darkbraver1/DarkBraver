@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Experian.QueryServices.Interfaces/1.0.0": {
+        "dependencies": {
+          "Experian.ApiModels": "1.0.0",
+          "Experian.QueryModels": "1.0.0"
+        },
+        "runtime": {
+          "Experian.QueryServices.Interfaces.dll": {}
+        }
+      },
+      "Experian.ApiModels/1.0.0": {
+        "runtime": {
+          "Experian.ApiModels.dll": {}
+        }
+      },
+      "Experian.QueryModels/1.0.0": {
+        "runtime": {
+          "Experian.QueryModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experian.QueryServices.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Experian.ApiModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Experian.QueryModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
