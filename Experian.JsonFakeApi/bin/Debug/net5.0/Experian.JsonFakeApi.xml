@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Experian.JsonFakeApi</name>
+    </assembly>
+    <members>
+        <member name="M:Experian.JsonFakeApi.Controllers.JsonPlaceHolder.JsonPlaceHolderController.GetPhotoAlbums(System.Nullable{System.Int32})">
+            <summary>
+            Returns a list photo albums
+            </summary>
+            <param name="numberOfRecords">Number Of Records</param>
+            <remarks>Gets a list of photos and albums from api and returns combined result of photo albums</remarks>
+            <response code="200">OK</response>
+            <response code="204">No Content - The Json placeholder api has no records</response>
+            <response code="400">Bad request</response>
+            <response code="500">Internal Server Error</response>
+            <returns></returns>
+        </member>
+        <member name="M:Experian.JsonFakeApi.Controllers.JsonPlaceHolder.JsonPlaceHolderController.GetPhotoAlbumByUserId(System.Int32)">
+            <summary>
+            Returns a list photo albums of a given User Id
+            </summary>
+            <param name="userId">User ID</param>
+            <remarks>Gets a list of photos and albums from api and returns combined result of photo albums for a given User Id</remarks>
+            <response code="200">OK</response>
+            <response code="204">No Content - The Json placeholder api has no records</response>
+            <response code="400">Bad request</response>
+            <response code="404">Not Found - there is no record for given user Id</response>
+            <response code="500">Internal Server Error</response>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
