@@ -1,0 +1,9 @@
+E:\Experian Technical Test\Experian.ApiModels\bin\Debug\netcoreapp3.1\Experian.ApiModels.deps.json
+E:\Experian Technical Test\Experian.ApiModels\bin\Debug\netcoreapp3.1\Experian.ApiModels.dll
+E:\Experian Technical Test\Experian.ApiModels\bin\Debug\netcoreapp3.1\Experian.ApiModels.pdb
+E:\Experian Technical Test\Experian.ApiModels\obj\Debug\netcoreapp3.1\Experian.ApiModels.csprojAssemblyReference.cache
+E:\Experian Technical Test\Experian.ApiModels\obj\Debug\netcoreapp3.1\Experian.ApiModels.AssemblyInfoInputs.cache
+E:\Experian Technical Test\Experian.ApiModels\obj\Debug\netcoreapp3.1\Experian.ApiModels.AssemblyInfo.cs
+E:\Experian Technical Test\Experian.ApiModels\obj\Debug\netcoreapp3.1\Experian.ApiModels.csproj.CoreCompileInputs.cache
+E:\Experian Technical Test\Experian.ApiModels\obj\Debug\netcoreapp3.1\Experian.ApiModels.dll
+E:\Experian Technical Test\Experian.ApiModels\obj\Debug\netcoreapp3.1\Experian.ApiModels.pdb
