@@ -1,0 +1,9 @@
+E:\Experian Technical Test\Experian.QueryModels\bin\Debug\netcoreapp3.1\Experian.QueryModels.deps.json
+E:\Experian Technical Test\Experian.QueryModels\bin\Debug\netcoreapp3.1\Experian.QueryModels.dll
+E:\Experian Technical Test\Experian.QueryModels\bin\Debug\netcoreapp3.1\Experian.QueryModels.pdb
+E:\Experian Technical Test\Experian.QueryModels\obj\Debug\netcoreapp3.1\Experian.QueryModels.csprojAssemblyReference.cache
+E:\Experian Technical Test\Experian.QueryModels\obj\Debug\netcoreapp3.1\Experian.QueryModels.AssemblyInfoInputs.cache
+E:\Experian Technical Test\Experian.QueryModels\obj\Debug\netcoreapp3.1\Experian.QueryModels.AssemblyInfo.cs
+E:\Experian Technical Test\Experian.QueryModels\obj\Debug\netcoreapp3.1\Experian.QueryModels.csproj.CoreCompileInputs.cache
+E:\Experian Technical Test\Experian.QueryModels\obj\Debug\netcoreapp3.1\Experian.QueryModels.dll
+E:\Experian Technical Test\Experian.QueryModels\obj\Debug\netcoreapp3.1\Experian.QueryModels.pdb
